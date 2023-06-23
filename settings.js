@@ -10,19 +10,19 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://zenzapi.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapi.xyz': '01ABEB1E11', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
+global.owner = ['𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™']
+global.premium = ['94741842307']
+global.ownernomer = '𝐕𝐢𝐡𝐚𝐠𝐚 MD'
+global.ownername = '🐦𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
